@@ -36,7 +36,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'app.Guess'
+    mainClass = 'app.Grader'
 }
 
 tasks.named('test') {
