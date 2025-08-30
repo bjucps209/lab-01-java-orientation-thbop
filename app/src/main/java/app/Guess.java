@@ -16,7 +16,7 @@ class Game {
 
 
     public Game() {
-        secretNumber = (int)(Math.random() * 10) + 1;
+        secretNumber = (int)(Math.random() * 11) + 1;
     }
 
     void run() {
